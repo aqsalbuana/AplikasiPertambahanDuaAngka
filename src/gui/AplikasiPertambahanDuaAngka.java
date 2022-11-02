@@ -242,7 +242,7 @@ public class AplikasiPertambahanDuaAngka extends javax.swing.JFrame {
     }//GEN-LAST:event_tambahBtnActionPerformed
 
     private void keluarBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_keluarBtnActionPerformed
-        // TODO add your handling code here:
+        System.exit(0);
     }//GEN-LAST:event_keluarBtnActionPerformed
 
     private void hapusBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_hapusBtnActionPerformed
